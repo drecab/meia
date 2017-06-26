@@ -18,7 +18,7 @@ import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
 public class Client extends JFrame {
-
+//experiencia
 	private JPanel contentPane;
 
 	private static Hero hero = new Hero();
